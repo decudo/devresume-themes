@@ -1,4 +1,4 @@
-module github.com/STACK25/devresume-themes/cli
+module github.com/decudo/devresume-themes/cli
 
 go 1.26.1
 
